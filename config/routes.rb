@@ -1,10 +1,13 @@
 Rails.application.routes.draw do
-  resources :doses,       only: [:index, :new, :create, :update, :destroy]
 
-  resources :ingredients, only: [:index]
+  get '/', to: 'cocktails#index', as: 'root'
 
-  resources :cocktails,   only: [:index, :show, :new, :create]
+  resources :cocktails, only: [:index, :new, :create, :show]
 
-  get '/cocktails/:id/doses/new', to: 'doses#new'
+  resources :cocktails do
+    resources :doses, only: [:index, :new, :create, :show, :update]
+  end
+
+  resources :doses, only: [:destroy]
+
 end
-

@@ -10,6 +10,7 @@ class DosesController < ApplicationController
   # GET /doses/1
   # GET /doses/1.json
   def show
+
   end
 
   # GET /doses/new
