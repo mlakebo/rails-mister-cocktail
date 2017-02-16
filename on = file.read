@@ -1,0 +1,26 @@
+=> [32m#<StringIO:0x00561a38f433e8[0m
+ @base_uri[32m=[0m
+  [32m#<URI::HTTP http://www.thecocktaildb.com/api/json/v1/1/list.php?i=list>[0m,
+ @meta[32m=[0m
+  {[31m[1;31m"[0m[31mdate[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mThu, 16 Feb 2017 13:31:09 GMT[1;31m"[0m[31m[0m,
+   [31m[1;31m"[0m[31mcontent-type[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mapplication/json[1;31m"[0m[31m[0m,
+   [31m[1;31m"[0m[31mtransfer-encoding[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mchunked[1;31m"[0m[31m[0m,
+   [31m[1;31m"[0m[31mconnection[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mkeep-alive[1;31m"[0m[31m[0m,
+   [31m[1;31m"[0m[31mset-cookie[1;31m"[0m[31m[0m=>
+    [31m[1;31m"[0m[31m__cfduid=d661400f559a5902a06db6c4cc942b7891487251869; expires=Fri, 16-Feb-18 13:31:09 GMT; path=/; domain=.thecocktaildb.com; HttpOnly[1;31m"[0m[31m[0m,
+   [31m[1;31m"[0m[31mx-powered-by[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mPHP/7.0.9, ASP.NET[1;31m"[0m[31m[0m,
+   [31m[1;31m"[0m[31maccess-control-allow-origin[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31m*[1;31m"[0m[31m[0m,
+   [31m[1;31m"[0m[31mserver[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mcloudflare-nginx[1;31m"[0m[31m[0m,
+   [31m[1;31m"[0m[31mcf-ray[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31m33215bb6f0971055-CDG[1;31m"[0m[31m[0m},
+ @metas[32m=[0m
+  {[31m[1;31m"[0m[31mdate[1;31m"[0m[31m[0m=>[[31m[1;31m"[0m[31mThu, 16 Feb 2017 13:31:09 GMT[1;31m"[0m[31m[0m],
+   [31m[1;31m"[0m[31mcontent-type[1;31m"[0m[31m[0m=>[[31m[1;31m"[0m[31mapplication/json[1;31m"[0m[31m[0m],
+   [31m[1;31m"[0m[31mtransfer-encoding[1;31m"[0m[31m[0m=>[[31m[1;31m"[0m[31mchunked[1;31m"[0m[31m[0m],
+   [31m[1;31m"[0m[31mconnection[1;31m"[0m[31m[0m=>[[31m[1;31m"[0m[31mkeep-alive[1;31m"[0m[31m[0m],
+   [31m[1;31m"[0m[31mset-cookie[1;31m"[0m[31m[0m=>
+    [[31m[1;31m"[0m[31m__cfduid=d661400f559a5902a06db6c4cc942b7891487251869; expires=Fri, 16-Feb-18 13:31:09 GMT; path=/; domain=.thecocktaildb.com; HttpOnly[1;31m"[0m[31m[0m],
+   [31m[1;31m"[0m[31mx-powered-by[1;31m"[0m[31m[0m=>[[31m[1;31m"[0m[31mPHP/7.0.9[1;31m"[0m[31m[0m, [31m[1;31m"[0m[31mASP.NET[1;31m"[0m[31m[0m],
+   [31m[1;31m"[0m[31maccess-control-allow-origin[1;31m"[0m[31m[0m=>[[31m[1;31m"[0m[31m*[1;31m"[0m[31m[0m],
+   [31m[1;31m"[0m[31mserver[1;31m"[0m[31m[0m=>[[31m[1;31m"[0m[31mcloudflare-nginx[1;31m"[0m[31m[0m],
+   [31m[1;31m"[0m[31mcf-ray[1;31m"[0m[31m[0m=>[[31m[1;31m"[0m[31m33215bb6f0971055-CDG[1;31m"[0m[31m[0m]},
+ @status[32m=[0m[[31m[1;31m"[0m[31m200[1;31m"[0m[31m[0m, [31m[1;31m"[0m[31mOK[1;31m"[0m[31m[0m][32m>[0m
